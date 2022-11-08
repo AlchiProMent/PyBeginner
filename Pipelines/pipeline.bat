@@ -1,0 +1,1 @@
+py main1.py | main2.py | main3.py
